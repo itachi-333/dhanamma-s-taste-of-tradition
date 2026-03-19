@@ -9,7 +9,7 @@ const HeroSection = () => (
     {/* Background image */}
     <div
       className="absolute inset-0 bg-cover bg-center"
-      style={{ backgroundImage: "url('https://images.unsplash.com/photo-1601050690597-df0568f70950?w=1600')" }}
+     style={{ backgroundImage: "url('/hero.png')" }}
     />
     <div className="absolute inset-0 bg-black/50 backdrop-blur-[2px]" />
 
