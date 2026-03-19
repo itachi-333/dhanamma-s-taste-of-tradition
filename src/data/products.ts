@@ -1,3 +1,5 @@
+import productImg from "@/assets/dhanamma-product.png";
+
 export type Category = "all" | "sweets" | "hot" | "pickles" | "powders";
 
 export interface Product {
