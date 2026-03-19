@@ -60,6 +60,7 @@ export default {
         whatsapp: "hsl(var(--whatsapp))",
         "footer-bg": "hsl(var(--footer-bg))",
         "footer-foreground": "hsl(var(--footer-foreground))",
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
